@@ -1,4 +1,4 @@
-# GenAI Lease Agreement Document Processing
+# Lease Agreement Document Processing using Amazon Bedrock (GenAI)
 
 ## Overview
 
