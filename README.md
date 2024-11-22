@@ -1,4 +1,4 @@
-# GenAI-lease-document-processing
+# GenAI Lease Agreement Document Processing
 
 ## Overview
 
